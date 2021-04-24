@@ -33,17 +33,17 @@
     "html-loader": "0.5.5",
     "jsdom": "9.5.0",
     "markdown-loader": "2.0.2",
-    "prettier": "1.14.3",
-    "react": "16.2.0",
-    "react-dom": "16.2.0",
+    "prettier": "^2.2.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
     "size-limit": "0.21.1",
     "webpack": "2.4.1",
     "webpack-bundle-analyzer": "^2.9.0",
     "webpack-dev-server": "2.8.2"
   },
   "peerDependencies": {
-    "react": "^16.x",
-    "react-dom": "^16.x"
+    "react": "^17.x",
+    "react-dom": "^17.x"
   },
   "scripts": {
     "clean": "npx del ./dist/*",
