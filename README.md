@@ -1,5 +1,7 @@
 # React FitText
 
+/* Update 25-04-2021. Attempted to update for use with React 17 by @willhindson. Not quite sure what I'm doing so wouldn't recommend this to be used by anyone other than me */
+
 [FitText.js](https://github.com/davatron5000/FitText.js) as a React v16+ component.
 
 If you want to make specific text fit within a container, and then maintain that ratio across screen sizes, this component is for you.
