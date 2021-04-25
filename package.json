@@ -1,7 +1,7 @@
 {
-  "name": "@kennethormandy/react-fittext",
-  "version": "0.6.0",
-  "author": "Kenneth Ormandy <hello@kennethormandy.com> (http://kennethormandy.com)",
+  "name": "@kennethormandy/react-fittext-will",
+  "version": "0.6.1",
+  "author": "Kenneth Ormandy <hello@kennethormandy.com> (http://kennethormandy.com), fork by @willhindson for React 17",
   "main": "./lib/FitText.js",
   "repository": "https://github.com/kennethormandy/react-fittext",
   "license": "MIT",
